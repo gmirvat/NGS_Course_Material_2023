@@ -1,0 +1,5 @@
+﻿ID,SRR,treatment,condition
+DMSO_rep1,SRR592573,0µM of 5-Aza,Control
+DMSO_rep2,SRR592574,0µM of 5-Aza,Control
+5aza_rep1,SRR592576,5µM of 5-Aza,Treatment
+5aza_rep2,SRR592577,5µM of 5-Aza,Treatment
