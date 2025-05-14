@@ -5,7 +5,8 @@ This repository contains materials from the Next-Generation Sequencing (NGS) Wor
 
 The workshop was co-delivered with Dr. James Carrington.
 
-About This Repository
+##About This Repository
+
 This repository documents my contributions to the course, including:
 
 Preparation of course content
